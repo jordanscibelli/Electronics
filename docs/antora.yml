@@ -1,0 +1,5 @@
+name: electronics
+title: Electronics
+version: dev
+nav: 
+- modules/ROOT/nav.adoc
